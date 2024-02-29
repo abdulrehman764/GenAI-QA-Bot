@@ -46,13 +46,15 @@ Set the following environment variables in your AWS account:
 
 Send a POST request to the API gateway endpoint with the user query in the body of the request (JSON format).
 
-#### Example Request:
+#### Example Request and Respomse:
 
+Request:
 ```json
 {
   "query": "What is the capital of France?"
 }
-#### Example Response:
+
+Response:
 
 ```json
 {
