@@ -1,6 +1,10 @@
 # GenAI-QA-Bot
 This repository implements a Generative AI API using SageMaker and Bedrock models to generate responses to user-provided questions. It leverages pre-trained models for sentence embedding, vector storage, and text generation.
 
+# Architecture 
+
+![ARL (5)](https://github.com/abdulrehman764/GenAI-QA-Bot/assets/108411380/70fc57d1-a8fb-48b4-9724-cbe509656713)
+
 
 # Generative AI API Framework
 
